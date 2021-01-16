@@ -1,0 +1,21 @@
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Steven%20A%20Cholewiak
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=4bahYMkAAAAJ&pagesize=100
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=4bahYMkAAAAJ:u5HHmVD_uO8C
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Weilei%20Zeng
+INFO:scholarly:Found 4 authors
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&user=iqScLSgAAAAJ&pagesize=100
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=view_citation&citation_for_view=iqScLSgAAAAJ:D_tqNUsBuKoC
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Marty%20Banks%2C%20Berkeley
+INFO:scholarly:Found 1 authors
+INFO:scholarly:No more author pages
+INFO:scholarly:Getting https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Marty%20Banks%2C%20Berkeley
+INFO:scholarly:Found 1 authors
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=A%20density-based%20algorithm%20for%20discovering%20clusters%20in%20large%20spatial%20databases%20with%20noise&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:-KybkyxcGYIJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:-KybkyxcGYIJ:scholar.google.com/&output=citation&scisdr=CgXNiIS4GAA:AAGBfm0AAAAAXum4XnMFefJdrG8SgBkYAkQEgvJ6gxDZ&scisig=AAGBfm0AAAAAXum4Xq-vhFG5sOUacguDi0YYTJHBX3UL&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Getting https://scholar.google.com/scholar?cites=9374625445873167608&as_sdt=5,33&sciodt=0,33&hl=en
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=Weilei%20Zeng&as_vis=0&as_sdt=0,33
+INFO:scholarly:Getting https://scholar.google.com/scholar?q=info:iPYFlawG1JAJ:scholar.google.com/&output=cite&scirp=0&hl=en
+INFO:scholarly:Getting https://scholar.googleusercontent.com/scholar.bib?q=info:iPYFlawG1JAJ:scholar.google.com/&output=citation&scisdr=CgXNiIS4GAA:AAGBfm0AAAAAXum5BfYZvUIELYAzndoV_j_QVUEY7N0Z&scisig=AAGBfm0AAAAAXum5BbYTcngp3ADtpXyd22qrmfeHmI7j&scisf=4&ct=citation&cd=-1&hl=en
+INFO:scholarly:Getting https://scholar.google.com/scholar?hl=en&q=zeng2019higher&as_vis=0&as_sdt=0,33
